@@ -2,25 +2,42 @@
 
 **A Passionate Developer | Data Science Enthusiast | Founder of Asrofyz**
 
-📩 **Email Me:**  **ansshu.kr.singh@gmail.com** for Collaboration, Projects, or Startup Partnerships 😊  
-🌐 **Portfolio:** https://anshu1207.github.io/portfolioanshu/
+📩 **Email Me:** **ansshu.kr.singh@gmail.com**  
+🌐 **Portfolio:** <a href="https://anshu1207.github.io/portfolioanshu/" target="_blank">https://anshu1207.github.io/portfolioanshu/</a>  
+🚀 **Asrofyz:** <a href="https://www.asrofyz.com" target="_blank">www.asrofyz.com</a>
 
 ---
 
 - 🎓 **Currently Studying:** 3rd Year B.Tech in Data Science  
--  **Founder & Building:** *Asrofyz* — My own startup focused on innovative tech solutions and digital products  
--  **Currently Learning:** Machine Learning, AI/ML Algorithms, Python Development, Data Visualization, SQL  
--  **Developing Projects in:** Python, Web Development, Data Science & AI-based Applications  
--  **Looking to Collaborate On:** AI/ML Projects, Web Development, Startup Ideas & Hackathons  
--  **Looking for Help With:** Scaling my startup *Asrofyz*, Advanced AI Models, and Cloud Deployment  
--  **Ask Me About:** Python, Data Science, Web Development, Startups, AI for Social Good   
--  **Pronouns:** He/Him  
--  **Fun fact:** I’m building my future one line of code at a time while growing a startup on the side 🚀💡
+- 💡 **Founder & Building:** *Asrofyz* — Innovative tech solutions & digital products  
+- 📚 **Currently Learning:** Machine Learning, AI Algorithms, Python Development, SQL, Data Visualization  
+- 💻 **Working On Projects In:** Python, Web Development, AI/ML & Data Science Applications  
+- 🤝 **Looking to Collaborate On:** AI/ML, Web Development, Hackathons & Startup Ideas  
+- 📈 **Need Help With:** Scaling *Asrofyz*, AI model deployment & Cloud Integration  
+- 💬 **Ask Me About:** Python, Data Science, Web Dev, Startups & AI for Social Good  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** Building my future one line of code at a time 🚀
 
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19y97r5yLe/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajput_.anshu._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshu-kumar-singh-70b0b7326/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/anshu_kr_singh/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/rajput_anshu_?t=yWfw-wlscDWZudwHyPkPKw&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ansshu.kr.singh@gmail.com) 
+<a href="https://www.facebook.com/share/19y97r5yLe/" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)</a>
+<a href="https://instagram.com/rajput_.anshu._" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/anshu-kumar-singh-70b0b7326/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
+<a href="https://www.reddit.com/user/anshu_kr_singh/" target="_blank">![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)</a>
+<a href="https://x.com/rajput_anshu_" target="_blank">![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)</a>
+<a href="mailto:ansshu.kr.singh@gmail.com" target="_blank">![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)</a>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anshu1207&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -30,14 +47,7 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anshu1207&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anshu1207&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshu1207&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anshu1207&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=anshu1207&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=anshu1207&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshu1207&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -50,6 +60,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=anshu1207&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=anshu1207&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
