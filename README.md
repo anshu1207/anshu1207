@@ -8,11 +8,11 @@
 
 ---
 
-- 🎓 **Currently Studying:** 3rd Year B.Tech in Data Science  
+- 🎓 **Currently Studying:** 4th Year B.Tech in Data Science  
 - 💡 **Founder & Building:** *Asrofyz* — Innovative tech solutions & digital products  
 - 📚 **Currently Learning:** Machine Learning, AI Algorithms, Python Development, SQL, Data Visualization  
 - 💻 **Working On Projects In:** Python, Web Development, AI/ML & Data Science Applications  
-- 🤝 **Looking to Collaborate On:** AI/ML, Web Development, Hackathons & Startup Ideas  
+- 🤝 **Looking to Collaborate On:** Auto Data Analyst, Auto CA, AI/ML, Web Development, Hackathons & Startup Ideas  
 - 📈 **Need Help With:** Scaling *Asrofyz*, AI model deployment & Cloud Integration  
 - 💬 **Ask Me About:** Python, Data Science, Web Dev, Startups & AI for Social Good  
 - 😄 **Pronouns:** He/Him  
